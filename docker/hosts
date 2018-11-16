@@ -1,0 +1,27 @@
+127.0.0.1       localhost
+::1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+172.172.0.100   hadoop-master
+172.172.0.101   hadoop-node1
+172.172.0.102   hadoop-node2
+172.172.0.103   hadoop-node3
+172.172.1.104   hadoop-node4
+172.172.1.105   hadoop-node5
+172.172.1.106   hadoop-node6
+172.172.1.107   hadoop-node7
+172.172.2.108   hadoop-node8
+172.172.2.109   hadoop-node9
+172.172.2.110   hadoop-node10
+172.172.2.111   hadoop-node11
+172.172.3.112   hadoop-node12
+172.172.3.113   hadoop-node13
+172.172.3.114   hadoop-node14
+172.172.3.115   hadoop-node15
+172.172.4.116   hadoop-node16
+172.172.4.117   hadoop-node17
+172.172.4.118   hadoop-node18
+172.172.4.119   hadoop-node19
+172.172.4.120   hadoop-node20
